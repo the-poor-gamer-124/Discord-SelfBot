@@ -5,6 +5,11 @@
 
 
 # IgneelDxD's Discord SelfBot
+
+Dropped development beacuse of Discords stance towards Selfbots.
+
+With a little cleanup here and there it should however still work with the rewrite version of discord.py 
+
 #### This Project uses the rewrite version of [discord.py](https://github.com/Rapptz/discord.py/tree/rewrite) as well as [Python 3.6](https://www.python.org/downloads/release/python-360/) or higher. Please keep this in mind when using the bot.
 
 This SelfBot has a lot of useful features like a bunch of Moderation commands as well as fun commands or a Mention logger.
